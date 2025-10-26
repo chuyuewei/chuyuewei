@@ -9,7 +9,7 @@ Im chuyuewei </h1>
 <h1 align="center">Experience</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,vim,blender,cpp,cloudflare,cmake,debian,discord,go,git,grafana,kubernetes,nginx,powershell,redhat,vim,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,blender,cpp,cloudflare,cmake,debian,discord,go,git,grafana,kubernetes,nginx,powershell,redhat,vim,visualstudio,vscode" />
   </a>
 </p>
 
